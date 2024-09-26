@@ -1,0 +1,10 @@
+{
+    "id": "terraform-plugin",
+    "name": "Terraform Plugin",
+    "version": "1.0.0",
+    "minAppVersion": "0.12.0",
+    "description": "Right-click a folder to run Terraform Apply or Terraform Destroy commands.",
+    "author": "Josh Morris",
+    "authorUrl": "https://github.com/acrylicus",
+    "isDesktopOnly": true
+}
